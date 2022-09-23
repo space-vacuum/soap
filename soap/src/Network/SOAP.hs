@@ -25,7 +25,6 @@ import Control.Monad.Trans.Resource (runResourceT, ResourceT)
 import qualified Data.ByteString.Lazy.Char8 as LBS
 
 import           Data.Default (def)
-import           Data.Void (Void)
 import qualified Text.XML as XML
 import           Text.XML.Cursor as XML
 import qualified Text.XML.Stream.Parse as XSP

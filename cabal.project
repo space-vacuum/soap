@@ -1,1 +1,6 @@
 packages: soap, soap-openssl, soap-tls
+
+source-repository-package
+    type: git
+    location: https://github.com/space-vacuum/iconv.git
+    tag: 578b28cdfc1e29721614d079447913e6c7da693d
